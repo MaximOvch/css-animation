@@ -146,6 +146,8 @@ h1 {
     position: absolute;
 }
 
+
+/*
 @keyframes flip-cycle {
     0% {
         transform: rotateY(0);
@@ -168,8 +170,6 @@ h1 {
     }
 }
 
-/* ================= ♥ HEARTS ================= */
-
 .hearts .card:nth-child(1) .card-inner { animation-delay: 2.18s; }
 .hearts .card:nth-child(2) .card-inner { animation-delay: 3.42s; }
 .hearts .card:nth-child(3) .card-inner { animation-delay: 2.76s; }
@@ -179,8 +179,6 @@ h1 {
 .hearts .card:nth-child(7) .card-inner { animation-delay: 2.89s; }
 .hearts .card:nth-child(8) .card-inner { animation-delay: 3.67s; }
 .hearts .card:nth-child(9) .card-inner { animation-delay: 2.54s; }
-
-/* ================= ♠ SPADES ================= */
 
 .spades .card:nth-child(1) .card-inner { animation-delay: 3.08s; }
 .spades .card:nth-child(2) .card-inner { animation-delay: 2.21s; }
@@ -192,8 +190,6 @@ h1 {
 .spades .card:nth-child(8) .card-inner { animation-delay: 2.47s; }
 .spades .card:nth-child(9) .card-inner { animation-delay: 3.19s; }
 
-/* ================= ♦ DIAMONDS ================= */
-
 .diamonds .card:nth-child(1) .card-inner { animation-delay: 2.84s; }
 .diamonds .card:nth-child(2) .card-inner { animation-delay: 3.56s; }
 .diamonds .card:nth-child(3) .card-inner { animation-delay: 2.29s; }
@@ -204,8 +200,6 @@ h1 {
 .diamonds .card:nth-child(8) .card-inner { animation-delay: 3.48s; }
 .diamonds .card:nth-child(9) .card-inner { animation-delay: 2.91s; }
 
-/* ================= ♣ CLUBS ================= */
-
 .clubs .card:nth-child(1) .card-inner { animation-delay: 3.62s; }
 .clubs .card:nth-child(2) .card-inner { animation-delay: 2.45s; }
 .clubs .card:nth-child(3) .card-inner { animation-delay: 3.07s; }
@@ -215,3 +209,5 @@ h1 {
 .clubs .card:nth-child(7) .card-inner { animation-delay: 3.31s; }
 .clubs .card:nth-child(8) .card-inner { animation-delay: 2.98s; }
 .clubs .card:nth-child(9) .card-inner { animation-delay: 3.54s; }
+
+*/
